@@ -42,4 +42,15 @@
 >> 二级引用
 >>> 三级引用
 
-[GitHub](https://github.com "点击跳转到github")
+[GitHub](https://github.com "点击跳转到github")s
+
+![自定义图片](C://Users//故里//Desktop//xxx.png)
+
+```c
+	include<stdio.h>
+	int main()
+	{
+		printf("hi .. \n");
+		return 0;
+	}
+```

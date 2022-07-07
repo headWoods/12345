@@ -9,12 +9,18 @@
 一段正文，关于某个技术模块的描述信息<br><br>
 这是第二行
 
-<font face="黑体">黑体字型</font><br><br>
+<font face="黑体">黑体字型</font>
 
-<font size=7>七号字</font></font><br><br>
+<font size=7>七号字</font></font>
 
 <font size=3>三号字</font></font>
 
+*斜体字*
+**粗体**
 
+***斜粗体字***
 
+现在是一段描述，其中我要凸显 '关键字'
+
+~~删除线~~
 
